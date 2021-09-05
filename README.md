@@ -1,6 +1,8 @@
 # [Tetris-react()](https://tetris-react-gold.vercel.app/)
 
-StuffToDo helps you getting things under control. If you easily forget things to do, just add a task to your list and do not forget to delete it once it is done! You can make more than one list to keep things organized.
+Play some Tetris and forget about everything!!
+Advanced exercise to learn complex features of ReactJS & JS and application into videogame programming.
+Inspired by [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg) tutorial on [freeCodeCamp](https://www.freecodecamp.org/)!
 
 ## Technology & Features
 
